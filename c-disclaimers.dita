@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="disclaimers">
+ <title>Important Disclaimer</title>
+ <shortdesc>These are important disclaimers regarding the recipes used this guide.</shortdesc>
+ <conbody>
+  <p id="treenutallergy">If you are like me, and have a severe allergy to tree nuts, substitute the ingredient for something else. Some examples and ideas for alternatives that I use can be found under "Allergy Alternatives."</p>
+  <p id="alcohol">Warning: This recipe contains alcohol. Consumption of alcohol is illegal if you are under 21.</p>
+ </conbody>
+</concept>

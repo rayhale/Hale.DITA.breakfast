@@ -3,5 +3,12 @@
 <map>
  <title>Breakfast for Armando</title>
   
-  <topicref href="intro.dita"/>
+  <topicref href="l-intro.dita"/>
+ <topichead navtitle="Breakfast Recipes">
+  <topicref href="t-blueberrywaffles.dita"/>
+ </topichead>
+ <topichead navtitle="Breakfast Drinks">
+  <topicref href="t-coffee.md"/>
+ </topichead>
+ <topicref href="c-alternatives.dita"/>
 </map>

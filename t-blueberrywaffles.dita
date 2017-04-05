@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gkm_kpv_lz">
+    <title>Blueberry Oatmeal Waffles</title>
+    <shortdesc><image href="images/berrywaffle.jpg"></image></shortdesc>
+    <taskbody>
+     <prereq>
+            <p conref="c-disclaimers.dita#disclaimers/treenutallergy"></p>
+            <p>This recipe will make 6 eight-inch waffles.</p>
+            <p>Prep Time: 20 minutes</p>
+            <p>Cook Time: 5 minutes</p>
+            <p audience="Armando">This recipe calls for white whole wheat flour, which bakes and tastes more
+                like all-purpose flour. If you like wheaty tasting waffles, you can also use whole wheat
+                pastry flour. But if you’d rather use all-purpose, then go ahead! Both are on top of my refrigerator.</p>
+            <p>Ingredients</p>
+            <ul>
+                <li audience="Armando">1 cup white whole wheat flour</li>
+                <li audience="Mom">1 cup all purpose flour</li>
+                <li>1 tablespoon baking powder</li>
+                <li>1/2 teaspoon salt</li>
+                <li>1/4 teaspoon ground allspice</li>
+                <li>1 cup quick cooking oats</li>
+                <li>1/3 cup unsweetened applesauce</li>
+                <li audience="Mom">1 tablespoon brown sugar</li>
+                <li audience="Armando">1 1/2 cups unsweetened almond milk</li>
+                <li audience="Mom">1 1/2 cups milk</li>
+                <li audience="mom">1 egg</li>
+                <li>3 tablespoons pure maple syrup</li>
+                <li>2 tablespoons canola oil</li>
+                <li>1 teaspoon pure vanilla extract</li>
+                <li>1 1/2 cups frozen blueberries</li>
+               </ul>
+        </prereq>
+        <context>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn the waffle maker on to allow it to preheat. For a golden brown waffle, Setting 3 is recommended.</cmd>
+            </step>
+            <step>
+                <cmd>Sift flour, baking powder, salt and allspice into a mixing bowl. Mix in the oats.</cmd>
+            </step>
+            <step>
+                <cmd>Make a well in the center and add applesauce, milk, maple syrup, oil and vanilla. Stir until combined.</cmd>
+            </step>
+            <step>
+                <cmd>Let batter rest for 5 minutes or so, it will thicken a bit. Fold in the blueberries. Don’t worry if the blueberries bleed into the batter, it’s no biggie.</cmd>
+            </step>
+            <step>
+                <cmd>Pour batter into waffle maker. I typically use 1/2 cup of batter per waffle. Remember to coat machine with oil in between every waffle.</cmd>
+            </step>
+            <step>
+                <cmd>Take waffle out when it is cooked how you prefer. (Around 5 minutes) Pour maple syrup on top and enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
