@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hd4_lqw_lz">
+    <title>Ultimate Breakfast Sandwich</title>
+    <shortdesc><image href="images/bfastsandwich.jpg"></image></shortdesc>
+    <taskbody>
+        <prereq>
+            <p>This breakfast sandwich is great for on-the-go!</p>
+            <p>Ingredients</p>
+            <ul>
+                <li>1 english muffin</li>
+                <li audience="armando">2 mini vegan sausage links</li>
+                <li audience="mom">2 sausage patties (thawed if frozen)</li>
+                <li audience="armando">1 slice firm tofu cut 1/2 inch thick</li>
+                <li audience="mom">two slices thick cut bacon</li>
+                <li>1 hashbrown patty</li>
+                <li>2 slices tomato</li>
+                <li audience="armando">1 slice vegan cheese</li>
+                <li audience="mom">1 slice cheese of your choice</li>
+                <li>1 1/2 teaspoon oil for cooking</li>
+                <li>salt to taste</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat the oven to 425 degrees. When the oven is heated, place the hashroom on a pan in the oven while you prepare the other ingredients. The hashbrown typically takes 20-25 minutes to cook to a golden brown.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the stove on "medium-high" and lightly coat the frying pan with cooking oil.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Place the vegan sausage on one side of the pan and the tofu on the other side.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Place the sausage on one side of the pan and the bacon on the other side.</cmd>
+            </step>
+            <step>
+                <cmd>While all of that is cooking, place the english muffin in the toaster.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Cook the vegan sausage and tofu until they are heated through. About 2 minutes on each side. When they are fully cooked, carefully remove them from the pan and cut the vegan sausage links in half length-wise.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Cook the sausage and bacon until they are heated through. About 2 minutes on each side. When they are fully cooked, carefully remove them from the pan and cut the slices of bacon in half width-wise.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the pan with the hashbrown from the oven once it is golden brown. Begin assembling the sandwich on the pan.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Place the items in this order, starting from the bottom up: the bottom slice of the bagel, sausage slices (flat side down), tofu patty, and the cheese. Then place the sandwich into the oven with the broiler on until the cheese is melted to your liking.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Place the items in this order, starting from the bottom up: the bottom slice of the bagel, sausage patty, slices of bacon, and the cheese. Then place the sandwich into the oven with the broiler on until the cheese is melted to your liking.</cmd>
+            </step>
+            <step>
+                <cmd>Remove from the oven and continue assembling the sandwich with the hash brown, tomato slices, and complete with the top half of the bagel.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

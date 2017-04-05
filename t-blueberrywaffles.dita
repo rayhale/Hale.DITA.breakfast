@@ -9,21 +9,20 @@
             <p>This recipe will make 6 eight-inch waffles.</p>
             <p>Prep Time: 20 minutes</p>
             <p>Cook Time: 5 minutes</p>
-            <p audience="Armando">This recipe calls for white whole wheat flour, which bakes and tastes more
+            <p audience="armando">This recipe calls for white whole wheat flour, which bakes and tastes more
                 like all-purpose flour. If you like wheaty tasting waffles, you can also use whole wheat
                 pastry flour. But if you’d rather use all-purpose, then go ahead! Both are on top of my refrigerator.</p>
             <p>Ingredients</p>
             <ul>
-                <li audience="Armando">1 cup white whole wheat flour</li>
-                <li audience="Mom">1 cup all purpose flour</li>
+                <li audience="armando">1 cup white whole wheat flour</li>
+                <li audience="mom">1 cup all purpose flour</li>
                 <li>1 tablespoon baking powder</li>
                 <li>1/2 teaspoon salt</li>
                 <li>1/4 teaspoon ground allspice</li>
                 <li>1 cup quick cooking oats</li>
                 <li>1/3 cup unsweetened applesauce</li>
-                <li audience="Mom">1 tablespoon brown sugar</li>
-                <li audience="Armando">1 1/2 cups unsweetened almond milk</li>
-                <li audience="Mom">1 1/2 cups milk</li>
+                <li audience="armando">1 1/2 cups unsweetened almond milk</li>
+                <li audience="mom">1 1/2 cups milk</li>
                 <li audience="mom">1 egg</li>
                 <li>3 tablespoons pure maple syrup</li>
                 <li>2 tablespoons canola oil</li>
@@ -38,7 +37,10 @@
             <step>
                 <cmd>Turn the waffle maker on to allow it to preheat. For a golden brown waffle, Setting 3 is recommended.</cmd>
             </step>
-            <step>
+            <step audience="mom">
+                <cmd>Sift flour, baking powder, salt and allspice into a mixing bowl. Mix in the oats and egg.</cmd>
+            </step>
+            <step audience="armando">
                 <cmd>Sift flour, baking powder, salt and allspice into a mixing bowl. Mix in the oats.</cmd>
             </step>
             <step>
