@@ -3,6 +3,9 @@
    <appContext helpID="topic_nyt_3kw_lz" path="l-intro.html"/>
    <appContext helpID="task_gkm_kpv_lz" path="t-blueberrywaffles.html"/>
    <appContext helpID="task_hd4_lqw_lz" path="t-breakfastsandwich.html"/>
+   <appContext helpID="task_qgx_5zw_lz" path="t-bananabread.html"/>
    <appContext helpID="" path="t-coffee.html"/>
+   <appContext helpID="" path="t-smoothie.html"/>
+   <appContext helpID="task_uhp_43x_lz" path="t-mimosa.html"/>
    <appContext helpID="concept_evv_5bw_lz" path="c-alternatives.html"/>
 </map>
