@@ -7,9 +7,11 @@
  <topichead navtitle="Breakfast Recipes">
   <topicref href="t-blueberrywaffles.dita"/>
   <topicref href="t-breakfastsandwich.dita"/>
+  <topicref href="t-bananabread.dita"/>
  </topichead>
  <topichead navtitle="Breakfast Drinks">
   <topicref href="t-coffee.md"/>
+  <topicref href="t-smoothie.md"/>
  </topichead>
  <topicref href="c-alternatives.dita"/>
 </map>

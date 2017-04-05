@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qgx_5zw_lz">
+    <title>Vegan Banana Bread</title>
+    <shortdesc><image href="images/bananabread.jpg"></image></shortdesc>
+    <taskbody>
+        <prereq>
+            <p conref="c-disclaimers.dita#disclaimers/treenutallergy"></p>
+            <p>This recipe makes 1 loaf</p>
+            <p>Prep Time: 10 minutes</p>
+            <p>Cook Time: 50 minutes</p>
+            <p>Ingredients</p>
+            <ul>
+                <li>1 1/3 cups mashed banana (about 3-4 bananas)</li>
+                <li>2 tablespoons ground flaxseed</li>
+                <li>1/3 cup almond milk</li>
+                <li>1/3 cup coconut oil</li>
+                <li>2 tablespoons pure maple syrup</li>
+                <li>2 teaspoons pure vanilla extract</li>
+                <li>1/2 cup rolled oats</li>
+                <li>1 teaspoon baking soda</li>
+                <li>1/2 teaspoon salt</li>
+                <li>1 1/2 cups white whole wheat flour</li>
+                <li>1/2 cup walnuts</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat the oven to 350°F. Lightly spray a 9x5-inch loaf pan with oil and set aside.</cmd>
+            </step>
+            <step>
+                <cmd>In a large bowl, mash the banana until almost smooth. Stir in the ground flax, almond milk, coconut oil, maple syrup, and vanilla into the banana until combined.</cmd>
+            </step>
+            <step>
+                <cmd>Stir the sugar, oats, baking soda, baking powder, salt, and flour into the wet mixture, one by one, in the order listed. Stop stirring when there are no flour patches at the bottom of the bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Distribute the dough into the loaf pan and spread out evenly. Add the walnuts and gently press them into the dough to adhere.</cmd>
+            </step>
+            <step>
+                <cmd>Bake the loaf, uncovered, for 45 to 55 minutes or until lightly golden and firm on top. The top of the loaf should slowly spring back when touched.</cmd>
+            </step>
+            <step>
+                <cmd>Place the loaf pan on a cooling rack for 30 minutes. Then, slide a knife around the loaf to loosen it and gently remove it from the pan, placing it directly onto the cooling rack until completely cooled (or to hasten the cooling process, transfer to the fridge for 45 minutes).</cmd>
+            </step>
+            <step>
+                <cmd>Slice the loaf once cooled. The loaf will keep in the fridge tightly wrapped for 3 to 4 days, or it can be frozen for 4 to 6 weeks.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

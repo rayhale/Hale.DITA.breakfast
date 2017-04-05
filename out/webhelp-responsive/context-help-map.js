@@ -1,1 +1,1 @@
-var helpContexts = [{"appname":"", "appid":"concept_oc4_vz3_kz", "path":"intro.html"},{"appname":"", "appid":"task_gkm_kpv_lz", "path":"t-blueberrywaffles.html"}]
+var helpContexts = [{"appname":"", "appid":"topic_nyt_3kw_lz", "path":"l-intro.html"},{"appname":"", "appid":"task_gkm_kpv_lz", "path":"t-blueberrywaffles.html"},{"appname":"", "appid":"task_hd4_lqw_lz", "path":"t-breakfastsandwich.html"},{"appname":"", "appid":"", "path":"t-coffee.html"},{"appname":"", "appid":"concept_evv_5bw_lz", "path":"c-alternatives.html"}]

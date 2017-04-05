@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ibx_c2x_lz">
+    <title>Sausage and Cheese Omelet</title>
+    <shortdesc><image href="images/omelet.jpg"></image></shortdesc>
+    <taskbody>
+        <prereq>
+            <p>1 serving</p>
+            <p>Prep Time: 2 minutes</p>
+            <p>Cook Time: 2 minutes</p>
+            <p>Ingredients</p>
+            <ul>
+                <li>1 egg</li>
+                <li>1 teaspoon milk</li>
+                <li>1 fully cooked sausage patty, chopped</li>
+                <li>1/4 cup shredded cheese</li>
+                <li>1/4 diced tomato</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Coat a 2-cup, microwave safe cereal bowl with cooking spray. Add egg and milk and beat together.</cmd>
+            </step>
+            <step>
+                <cmd>Microwave on high for 30 seconds. Push the cooked edges toward center then microwave again until the egg is almost set, about 15 to 45 seconds longer.</cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle the cheese, sausage and tomatoes on top and fold the omelet in half. Slide the omelet onto plate and enjoy! This omelet pairs great with the breakfast mimosa!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
