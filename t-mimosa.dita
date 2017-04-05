@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_uhp_43x_lz">
+    <title>Mimosa</title>
+    <shortdesc><image href="images/mimosa.jpg"></image></shortdesc>
+    <taskbody>
+        <prereq>
+            <p conref="c-disclaimers.dita#disclaimers/alcohol"></p>
+            <p>Total Time: 5 minutes</p>
+            <p>Ingredients</p>
+            <ul>
+                <li>Chilled Champagne</li>
+                <li>Chilled orange juice</li>
+                <li>1 tablespoonTriple Sec</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Fill a champagne flutes 1/2 full with chilled sparkling wine. Top it off with the orange juice. Finish the mimosa off with 1 tablespoon of triple sec.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
