@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/rayhale/Desktop/Hale.DITA.breakfast/temp/webhelp-responsive?><?workdir-uri file:/Users/rayhale/Desktop/Hale.DITA.breakfast/temp/webhelp-responsive/?><?path2project?><?path2project-uri ./?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " xtrc="map:1;3:6" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap">
+ <title class="- topic/title " xtrc="title:1;4:9" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap">Breakfast for Armando</title>
+  
+  <topicref class="- map/topicref " href="l-intro.dita" xtrc="topicref:1;6:34" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+ <topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Breakfast Recipes" xtrc="topichead:1;7:42" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap">
+  <topicref class="- map/topicref " href="t-blueberrywaffles.dita" xtrc="topicref:2;8:45" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+  <topicref class="- map/topicref " href="t-breakfastsandwich.dita" xtrc="topicref:3;9:46" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+  <topicref class="- map/topicref " href="t-bananabread.dita" xtrc="topicref:4;10:40" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+ </topichead>
+ <topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Breakfast Drinks" xtrc="topichead:2;12:41" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap">
+  <topicref class="- map/topicref " href="t-coffee.md" xtrc="topicref:5;13:33" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+  <topicref class="- map/topicref " href="t-smoothie.md" xtrc="topicref:6;14:35" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+  <topicref class="- map/topicref " href="t-mimosa.dita" xtrc="topicref:7;15:35" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+  <topicref class="- map/topicref " href="t-bloodymary.dita" xtrc="topicref:8;16:39" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+ </topichead>
+ <topicref class="- map/topicref " href="c-alternatives.dita" xtrc="topicref:9;18:40" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+ <topicref class="- map/topicref " href="c-references.dita" xtrc="topicref:10;19:38" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+ <topicref class="- map/topicref " href="l-thankyou.dita" xtrc="topicref:11;20:36" xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/breakfastforarmando.ditamap"/>
+</map>

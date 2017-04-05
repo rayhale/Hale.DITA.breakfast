@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/rayhale/Desktop/Hale.DITA.breakfast/temp/webhelp-responsive?><?workdir-uri file:/Users/rayhale/Desktop/Hale.DITA.breakfast/temp/webhelp-responsive/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_qgx_5zw_lz" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="title:1;4:12">Vegan Banana Bread</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="shortdesc:1;5:16"><image href="images/bananabread.jpg" placement="inline" class="- topic/image " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="image:1;5:53"/></shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="taskbody:1;6:15">
+        <prereq class="- topic/section task/prereq " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="prereq:1;7:17">
+            <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/c-disclaimers.dita" xtrc="p:1;7:26">If you are like me, and have a severe allergy to tree nuts, substitute the ingredient for something else. Some examples and ideas for alternatives that I use can be found under "Allergy Alternatives."</p>
+            <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="p:2;9:16">This recipe makes 1 loaf</p>
+            <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="p:3;10:16">Prep Time: 10 minutes</p>
+            <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="p:4;11:16">Cook Time: 50 minutes</p>
+            <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="p:5;12:16">Ingredients</p>
+            <ul class="- topic/ul " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="ul:1;13:17">
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:1;14:21">1 1/3 cups mashed banana (about 3-4 bananas)</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:2;15:21">2 tablespoons ground flaxseed</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:3;16:21">1/3 cup almond milk</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:4;17:21">1/3 cup coconut oil</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:5;18:21">2 tablespoons pure maple syrup</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:6;19:21">2 teaspoons pure vanilla extract</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:7;20:21">1/2 cup rolled oats</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:8;21:21">1 teaspoon baking soda</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:9;22:21">1/2 teaspoon salt</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:10;23:21">1 1/2 cups white whole wheat flour</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="li:11;24:21">1/2 cup walnuts</li>
+            </ul>
+        </prereq>
+        <context class="- topic/section task/context " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="context:1;27:18">
+            <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="p:6;28:16">Directions</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="steps:1;30:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="step:1;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="cmd:1;32:22">Preheat the oven to 350°F. Lightly spray a 9x5-inch loaf pan with oil and set aside.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="step:2;34:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="cmd:2;35:22">In a large bowl, mash the banana until almost smooth. Stir in the ground flax, almond milk, coconut oil, maple syrup, and vanilla into the banana until combined.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="step:3;37:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="cmd:3;38:22">Stir the sugar, oats, baking soda, baking powder, salt, and flour into the wet mixture, one by one, in the order listed. Stop stirring when there are no flour patches at the bottom of the bowl.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="step:4;40:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="cmd:4;41:22">Distribute the dough into the loaf pan and spread out evenly. Add the walnuts and gently press them into the dough to adhere.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="step:5;43:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="cmd:5;44:22">Bake the loaf, uncovered, for 45 to 55 minutes or until lightly golden and firm on top. The top of the loaf should slowly spring back when touched.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="step:6;46:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="cmd:6;47:22">Place the loaf pan on a cooling rack for 30 minutes. Then, slide a knife around the loaf to loosen it and gently remove it from the pan, placing it directly onto the cooling rack until completely cooled (or to hasten the cooling process, transfer to the fridge for 45 minutes).</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="step:7;49:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-bananabread.dita" xtrc="cmd:7;50:22">Slice the loaf once cooled. The loaf will keep in the fridge tightly wrapped for 3 to 4 days, or it can be frozen for 4 to 6 weeks.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
