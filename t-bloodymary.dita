@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cnl_ylx_lz">
+    <title>Bloody Mary</title>
+    <shortdesc><image href="images/bloodymary.JPG"></image></shortdesc>
+    <taskbody>
+        <prereq>
+            <p conref="c-disclaimers.dita#disclaimers/alcohol"></p>
+            <p>Serves 6</p>
+            <p>Total Time: 10 minutes</p>
+            <p>Ingrediets</p>
+            <ul>
+                <li>6 ounces vodka</li>
+                <li>3 cups Zing-Zang Mix</li>
+                <li>1 lemon</li>
+                <li>1 1/2 teaspoons Worcestershire sauce</li>
+                <li>1/4 teaspoon Tabasco</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In a pitcher, mix together the vodka, tomato juice, Worcestershire sauce, salt, pepper, and Tabasco. Serve over ice in a tall glass with a lemon wedge.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
