@@ -1,9 +1,11 @@
 fil = new Array();
 fil["0"]= "c-alternatives.html@@@Allergy Alternatives@@@Here are some ideas for alternative ingredients to use when a recipe calls for tree nuts...";
 fil["1"]= "c-disclaimers.html@@@Important Disclaimer@@@These are important disclaimers regarding the recipes used this guide...";
-fil["2"]= "intro.html@@@Rise and Shine!!@@@Wakey Wakey Eggs and (only for Armando) Bakey!! Let&apos;s make some breakfast!!...";
-fil["3"]= "l-intro.html@@@Welcome@@@Wakey Wakey Eggs and (only for Armando) Bakey!! Let&apos;s make some breakfast!!...";
-fil["4"]= "t-bananabread.html@@@Vegan Banana Bread@@@If you are like me, and have a severe allergy to tree nuts, substitute the ingredient for something else. Some examples and ideas for alternatives that I use can be found under &quot;Allergy Alternatives.&quot...";
-fil["5"]= "t-blueberrywaffles.html@@@Blueberry Oatmeal Waffles@@@If you are like me, and have a severe allergy to tree nuts, substitute the ingredient for something else. Some examples and ideas for alternatives that I use can be found under &quot;Allergy Alternatives.&quot...";
-fil["6"]= "t-breakfastsandwich.html@@@Ultimate Breakfast Sandwich@@@This breakfast sandwich is great for on-the-go! Ingredients 1 english muffin 2 mini vegan sausage links 1 slice firm tofu cut 1/2 inch thick 1 hashbrown patty 2 slices tomato 1 slice vegan cheese 1...";
-fil["7"]= "t-mimosa.html@@@Mimosa@@@Warning: This recipe contains alcohol. Consumption of alcohol is illegal if you are under 21. Total Time: 5 minutes Ingredients Chilled Champagne Chilled orange juice 1 tablespoonTriple Sec Directions...";
+fil["2"]= "c-references.html@@@Recipe Sources@@@If you enjoyed these recipes, here are the websites that I used as reference. Explore the websites to find more delicious recipes!...";
+fil["3"]= "intro.html@@@Rise and Shine!!@@@Wakey Wakey Eggs and (only for Armando) Bakey!! Let&apos;s make some breakfast!!...";
+fil["4"]= "l-intro.html@@@Welcome@@@Wakey Wakey Eggs and (only for Armando) Bakey!! Let&apos;s make some breakfast!!...";
+fil["5"]= "l-thankyou.html@@@Thank You!@@@I hope you were able to find something you liked in my first recipe book! Please feel free to email me with any feedback or suggestions to make your experience better...";
+fil["6"]= "t-bananabread.html@@@Vegan Banana Bread@@@If you are like me, and have a severe allergy to tree nuts, substitute the ingredient for something else. Some examples and ideas for alternatives that I use can be found under &quot;Allergy Alternatives.&quot...";
+fil["7"]= "t-blueberrywaffles.html@@@Blueberry Oatmeal Waffles@@@If you are like me, and have a severe allergy to tree nuts, substitute the ingredient for something else. Some examples and ideas for alternatives that I use can be found under &quot;Allergy Alternatives.&quot...";
+fil["8"]= "t-breakfastsandwich.html@@@Ultimate Breakfast Sandwich@@@This breakfast sandwich is great for on-the-go! Ingredients 1 english muffin 2 mini vegan sausage links 1 slice firm tofu cut 1/2 inch thick 1 hashbrown patty 2 slices tomato 1 slice vegan cheese 1...";
+fil["9"]= "t-mimosa.html@@@Mimosa@@@Warning: This recipe contains alcohol. Consumption of alcohol is illegal if you are under 21. Total Time: 5 minutes Ingredients Chilled Champagne Chilled orange juice 1 tablespoonTriple Sec Directions...";

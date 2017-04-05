@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xmg_lkx_lz">
+    <title>Recipe Sources</title>
+    <shortdesc>If you enjoyed these recipes, here are the websites that I used as reference. Explore the websites to find more delicious recipes!</shortdesc>
+    <taskbody>
+        <context>
+          <ul>
+              <li>
+                  <xref href="https://www.buzzfeed.com/deenashanker/vegan-breakfasts?utm_term=.yjA9XDm09#.cpgJj9w0J" format="html" scope="external">
+                      29 Great Vegan Recipes </xref>
+              </li>
+              <li>
+                  <xref href="https://www.buzzfeed.com/food52/breakfast-recipes-to-take-you-around-the-world?utm_term=.qvl1rBGx1#.ygxV1x28V" format="html" scope="external">
+                      Breakfast Recipes Around the World </xref>
+              </li>
+          </ul>
+            
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
