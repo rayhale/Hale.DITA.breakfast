@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/rayhale/Desktop/Hale.DITA.breakfast/temp/pdf?><?workdir-uri file:/Users/rayhale/Desktop/Hale.DITA.breakfast/temp/pdf/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_hd4_lqw_lz" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="title:1;4:12">Ultimate Breakfast Sandwich</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="shortdesc:1;5:16"><image href="images/bfastsandwich.jpg" placement="inline" class="- topic/image " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="image:1;5:55"/></shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="taskbody:1;6:15">
+        <prereq class="- topic/section task/prereq " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="prereq:1;7:17">
+            <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="p:1;8:16">This breakfast sandwich is great for on-the-go!</p>
+            <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="p:2;9:16">Ingredients</p>
+            <ul class="- topic/ul " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="ul:1;10:17">
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="li:1;11:21">1 english muffin</li>
+                
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="li:3;13:36">2 sausage patties (thawed if frozen)</li>
+                
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="li:5;15:36">two slices thick cut bacon</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="li:6;16:21">1 hashbrown patty</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="li:7;17:21">2 slices tomato</li>
+                
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="li:9;19:36">1 slice cheese of your choice</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="li:10;20:21">1 1/2 teaspoon oil for cooking</li>
+                <li class="- topic/li " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="li:11;21:21">salt to taste</li>
+            </ul>
+        </prereq>
+        <context class="- topic/section task/context " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="context:1;24:18">
+            <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="p:3;25:16">Directions</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="steps:1;27:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="step:1;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="cmd:1;29:22">Preheat the oven to 425 degrees. When the oven is heated, place the hashroom on a pan in the oven while you prepare the other ingredients. The hashbrown typically takes 20-25 minutes to cook to a golden brown.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="step:2;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="cmd:2;32:22">Turn the stove on "medium-high" and lightly coat the frying pan with cooking oil.</cmd>
+            </step>
+            
+            <step audience="mom" class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="step:4;37:34">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="cmd:4;38:22">Place the sausage on one side of the pan and the bacon on the other side.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="step:5;40:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="cmd:5;41:22">While all of that is cooking, place the english muffin in the toaster.</cmd>
+            </step>
+            
+            <step audience="mom" class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="step:7;46:34">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="cmd:7;47:22">Cook the sausage and bacon until they are heated through. About 2 minutes on each side. When they are fully cooked, carefully remove them from the pan and cut the slices of bacon in half width-wise.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="step:8;49:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="cmd:8;50:22">Remove the pan with the hashbrown from the oven once it is golden brown. Begin assembling the sandwich on the pan.</cmd>
+            </step>
+            
+            <step audience="mom" class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="step:10;55:34">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="cmd:10;56:22">Place the items in this order, starting from the bottom up: the bottom slice of the bagel, sausage patty, slices of bacon, and the cheese. Then place the sandwich into the oven with the broiler on until the cheese is melted to your liking.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="step:11;58:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/Hale.DITA.breakfast/t-breakfastsandwich.dita" xtrc="cmd:11;59:22">Remove from the oven and continue assembling the sandwich with the hash brown, tomato slices, and complete with the top half of the bagel.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
